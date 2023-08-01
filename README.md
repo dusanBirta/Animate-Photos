@@ -19,4 +19,13 @@ Generated Output:
 
 https://github.com/dusanBirta/Animate-Photos/assets/31896340/5ac9a3ae-642d-414a-a7f5-3101742428ab
 
+Test Image 3:
+
+![jackie chan](https://github.com/dusanBirta/Animate-Photos/assets/31896340/8eaee1e8-0d5e-409f-9c09-4850545a55c0)
+
+Generated Output:
+
+https://github.com/dusanBirta/Animate-Photos/assets/31896340/8e69f932-bf2f-4ca4-90b2-e060d726cae1
+
+
 
