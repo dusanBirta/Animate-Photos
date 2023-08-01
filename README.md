@@ -2,9 +2,6 @@
 Animates photos using First Order Motion Model for Image Animation and Driving Video.
 
 #### Driving Video generated from: https://www.myheritage.com/deep-nostalgia?ref=louisbouchard.ai
-Driving Video:
-
-https://github.com/dusanBirta/Animate-Photos/assets/31896340/6372db77-1bde-4840-9646-b80f01bb0d52
 
 Test Image:
 
